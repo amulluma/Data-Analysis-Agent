@@ -1,0 +1,14 @@
+# Ignore log files
+*.log
+
+# Ignore temporary files
+temp/
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore environment variable files
+.env
+
+# Ignore system files on macOS
+.DS_Store
